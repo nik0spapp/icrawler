@@ -1,5 +1,10 @@
 icrawler
 ========
+Here you can find code material related to the up-to-date opinion mining and retrieval system which was described
+in the following paper: 
+Nikolaos Pappas, Georgios Katsimpras, Efstathios Stamatatos, <i>Distinguishing the Popularity Between Topics: A System for Up-to-date Opinion Retrieval and Mining in the Web</i>, 14th International Conference on Intelligent Text Processing and Computational Linguistics, Samos, Greece, LNCS, Springer, 2013 <br /> 
+<a href="http://publications.idiap.ch/downloads/papers/2013/Pappas_CICLING_2013.pdf" target="_blank">http://publications.idiap.ch/downloads/papers/2013/Pappas_CICLING_2013.pdf</a>
+
 
 Until the full version of the code is uploaded here, please check 
 the individual components that are available in my repository: 
