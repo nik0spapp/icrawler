@@ -1,6 +1,6 @@
 icrawler
 ========
-In this repository you can find code material related to the up-to-date opinion mining and retrieval system 
+In this repository you can find code material related to the opinion mining and retrieval system 
 which was described in the following paper: 
 <ul><li>
 Nikolaos Pappas, Georgios Katsimpras, Efstathios Stamatatos, <i>Distinguishing the Popularity Between Topics: A System for Up-to-date Opinion Retrieval and Mining in the Web</i>, 14th International Conference on Intelligent Text Processing and Computational Linguistics, Samos, Greece, LNCS, Springer, 2013 <br /> 
