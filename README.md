@@ -8,7 +8,7 @@ Nikolaos Pappas, Georgios Katsimpras, Efstathios Stamatatos, <i>Distinguishing t
 </li></ul>
 
 Until the full version of the code is uploaded here, please check 
-the individual components that are available in my repository: 
+the individual components that are available: 
 - SD algorithm: web page segmentation and noise removal. <br />
   <a href="https://github.com/nik0spapp/webpage_segmentation">https://github.com/nik0spapp/webpage_segmentation</a>
 
