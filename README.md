@@ -16,3 +16,5 @@ the individual components that are available:
   <a href="https://github.com/nik0spapp/unsupervised_sentiment">https://github.com/nik0spapp/unsupervised_sentiment</a>
 
 In case you have any questions or requests please contact me at nik0spapp@gmail.com.
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/e62179499570fe86a04743406f79bf38 "githalytics.com")](http://githalytics.com/nik0spapp/icrawler)
