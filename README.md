@@ -7,14 +7,13 @@ Nikolaos Pappas, Georgios Katsimpras, Efstathios Stamatatos, <i>Distinguishing t
 <a href="http://publications.idiap.ch/downloads/papers/2013/Pappas_CICLING_2013.pdf" target="_blank">http://publications.idiap.ch/downloads/papers/2013/Pappas_CICLING_2013.pdf</a>
 </li></ul>
 
-Until the full version of the code is uploaded here, please check 
-the individual components that are available: 
+Please check the available code of the individual components that are available: 
 - SD algorithm: web page segmentation and noise removal. <br />
   <a href="https://github.com/nik0spapp/webpage_segmentation">https://github.com/nik0spapp/webpage_segmentation</a>
 
 - Unsupervised sentiment classification using bootstrapping procedures for subjectivity and polarity classification. <br />
   <a href="https://github.com/nik0spapp/unsupervised_sentiment">https://github.com/nik0spapp/unsupervised_sentiment</a>
 
-In case you have any questions or requests please contact me at nik0spapp@gmail.com.
+In case you have any questions or further requests please contact me at nik0spapp@gmail.com.
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/e62179499570fe86a04743406f79bf38 "githalytics.com")](http://githalytics.com/nik0spapp/icrawler)
