@@ -16,4 +16,3 @@ Please check the available code of the individual components that are available:
 
 In case you have any questions or further requests please contact me at nik0spapp@gmail.com.
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/e62179499570fe86a04743406f79bf38 "githalytics.com")](http://githalytics.com/nik0spapp/icrawler)
