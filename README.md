@@ -2,10 +2,19 @@ icrawler
 ========
 In this repository you can find material related to the opinion mining and retrieval system 
 which was described in the following paper: 
-<ul><li>
-Nikolaos Pappas, Georgios Katsimpras, Efstathios Stamatatos, <i>Distinguishing the Popularity Between Topics: A System for Up-to-date Opinion Retrieval and Mining in the Web</i>, 14th International Conference on Intelligent Text Processing and Computational Linguistics, Samos, Greece, LNCS, Springer, 2013 <br /> 
-<a href="http://publications.idiap.ch/downloads/papers/2013/Pappas_CICLING_2013.pdf" target="_blank">http://publications.idiap.ch/downloads/papers/2013/Pappas_CICLING_2013.pdf</a>
-</li></ul>
+
+```
+@incollection{pappas13c,
+ location = {Samos, Greece},
+ year = {2013},
+ isbn = {978-3-642-37255-1},
+ booktitle = {Computational Linguistics and Intelligent Text Processing},
+ volume = {7817},
+ title = {Distinguishing the Popularity between Topics: A System for Up-to-Date Opinion Retrieval and Mining in the Web},
+ author = {Pappas, Nikolaos and Katsimpras, Georgios and Stamatatos, Efstathios},
+ pages = {197-209}
+}
+```
 
 Please check the available code of the individual components that are available: 
 - SD algorithm: web page segmentation and noise removal. <br />
