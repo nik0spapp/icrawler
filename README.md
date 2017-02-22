@@ -1,6 +1,4 @@
-icrawler
-========
-In this repository you can find material related to the opinion mining and retrieval system 
+<b>icrawler</b> — In this repository you can find material related to the opinion mining and retrieval system 
 which was described in the following paper: 
 
 ```
