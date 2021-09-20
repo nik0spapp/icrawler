@@ -21,6 +21,4 @@ Please check the available code of the individual components that are available:
 - Unsupervised sentiment classification using bootstrapping procedures for subjectivity and polarity classification. <br />
   <a href="https://github.com/nik0spapp/unsupervised_sentiment">https://github.com/nik0spapp/unsupervised_sentiment</a>
 
-## Contact:
-nik0spapp@gmail.com
 
